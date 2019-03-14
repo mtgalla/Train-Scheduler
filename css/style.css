@@ -6,3 +6,8 @@ label{
 .background-pic{
     background-image: url("../assets/images/rail.png")
 }
+
+.button-style{
+    position: relative;
+    margin-top: 20px;
+}
